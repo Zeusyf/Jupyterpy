@@ -7,3 +7,5 @@ To use use it without changing anything
  or download packge
 
 use greedywork.sh
+
+! curl -O https://raw.githubusercontent.com/Zeusyf/Jupyterpy/main/greedywork.sh && greedywork.sh
