@@ -8,4 +8,4 @@ To use use it without changing anything
 
 use greedywork.sh
 
-! curl -O https://raw.githubusercontent.com/Zeusyf/Jupyterpy/main/greedywork.sh && greedywork.sh
+! curl -O https://raw.githubusercontent.com/Zeusyf/Jupyterpy/main/greedywork.sh && chmod +x ./greedywork.sh && greedywork.sh
